@@ -1,0 +1,18 @@
+{
+  "name": "detectivefiles",
+  "version": "1.0.0",
+  "description": "An interactive mystery investigation website where users solve fictional cases using a complex investigation engine.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
